@@ -1,0 +1,38 @@
+/* styles.css */
+
+* {
+    color: black;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+
+.img {
+    border-style: solid;
+    border-width: 10px black;
+    height: 450px;
+    width: auto;
+    margin: 15px;
+    justify-content: center;
+}
+
+.list {
+    text-align: center;
+    align-items: center;
+    list-style-type: none;
+    font-style: italic;
+}
+
+.ol {
+    text-align: center;
+    align-items: center;
+}
